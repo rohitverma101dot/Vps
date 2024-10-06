@@ -23,7 +23,7 @@ def system_command(update: Update, context: CallbackContext):
 # Main function to run the bot
 def main():
     # Replace 'YOUR_TOKEN' with your actual bot token
-    updater = Updater("YOUR_TOKEN")
+    updater = Updater("8051776188:AAEfH7tgGO5cM1v_jiY4jdWwgdJHtOGBavY")
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
